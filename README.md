@@ -1,0 +1,2 @@
+# Afrotrade-Website
+Static website
